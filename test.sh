@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DB_AWS_ZONE=('bananas' 'apple' 'tomatos' 'rice' 'beans' 'orange' 'teacher' 'best' 'soccer')
+DB_AWS_ZONE=('test' 'abc' 'test' 'abc' 'zzz' 'aaa' 'boy' 'sss' 'ttt')
  
 for zone in "${DB_AWS_ZONE[@]}"
 do
