@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "===++++++++++@@@@ hello world - this is the first cloning job for devops class ===++++++++++@@@@"
+echo "franch - maurice - joel - cameroon -hypolite - ticla - madhavan - felix - "
 
